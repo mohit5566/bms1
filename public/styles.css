@@ -1,0 +1,47 @@
+body{
+    background-color: #282c34;
+}
+
+.cardd{
+    background: #e5e2e7;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  height: 550px;
+  margin: 16px;
+  float: left;
+  color: #252525;
+}
+
+.cardd h1 {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+    text-shadow: 0;
+  }
+
+.cardd button{
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+
+.card button:hover{
+    background-color: rgb(189, 44, 44);
+}
+label{
+    color: white;
+}
+
+.cont{
+    margin-top: 15px;
+}
+.card-prop{
+    text-align: center;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+.mod{
+    color: black;
+}
